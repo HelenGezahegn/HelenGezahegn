@@ -4,7 +4,7 @@
 
 <h3 align="center">
         <samp>&gt; Hi there, I'm
-                <b><a target="_blank" href="https://heleng.vercel.app/" alt="personal website">Helen</a></b> 👋🏾
+                <a target="_blank" href="https://heleng.vercel.app/" alt="personal website"><samp>Helen</samp></a> 👋🏾
         </samp>
 </h3>
 <p align="center"> 
