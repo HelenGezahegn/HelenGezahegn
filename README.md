@@ -36,7 +36,7 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Shahriar Shafin's GitHub Stats"
+        <img alt="Helen Gezahegn's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=HelenGezahegn&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
@@ -72,22 +72,22 @@
 #### Featured
 
 <p align="center">
-<a href="https://github.com/HelenGezahegn/social-media-app">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=HelenGezahegn&repo=social-media-app&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/HelenGezahegn/social-media-app" target="_blank">
+<img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=HelenGezahegn&repo=social-media-app&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/HelenGezahegn/car-showcase">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=HelenGezahegn&repo=car-showcase&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/HelenGezahegn/car-showcase" target="_blank">
+<img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=HelenGezahegn&repo=car-showcase&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/HelenGezahegn/job-finder">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=HelenGezahegn&repo=job-finder&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/HelenGezahegn/job-finder" target="_blank">
+<img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=HelenGezahegn&repo=job-finder&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/AspireUni/Aspire">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=AspireUni&repo=Aspire&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/AspireUni/Aspire" target="_blank">
+<img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=AspireUni&repo=Aspire&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
