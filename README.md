@@ -76,14 +76,14 @@
 <img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=HelenGezahegn&repo=social-media-app&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/HelenGezahegn/car-showcase" target="_blank">
-<img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=HelenGezahegn&repo=car-showcase&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/HelenGezahegn/chit-chat-ai" target="_blank">
+<img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=HelenGezahegn&repo=chit-chat-ai&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/HelenGezahegn/job-finder" target="_blank">
-<img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=HelenGezahegn&repo=job-finder&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/HelenGezahegn/portfolio" target="_blank">
+<img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=HelenGezahegn&repo=portfolio&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/AspireUni/Aspire" target="_blank">
